@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainChannelUITest" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-08-03T05:50:38" hostname="CHAMITH-WA" time="6.869">
+  <properties/>
+  <testcase name="testLogoutButton()" classname="MainChannelUITest" time="1.857"/>
+  <testcase name="testPostAndViewAfterLogoutAndLogin()" classname="MainChannelUITest" time="1.849"/>
+  <testcase name="testComponents()" classname="MainChannelUITest" time="0.077"/>
+  <testcase name="testPostButtonWithContent()" classname="MainChannelUITest" time="0.122"/>
+  <testcase name="testPostButtonWithEmptyContent()" classname="MainChannelUITest" time="2.956"/>
+  <system-out><![CDATA[Component name: null
+Component name: welcomeLabel
+Component name: postTextArea
+Component name: postButton
+Component name: null
+Component name: null
+Component name: contentViewArea
+Component name: null
+Component name: null
+Component name: null
+Component name: null
+Component name: null
+Component name: null
+Component name: null
+Component name: logoutButton
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
